@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/workspaces/C-Development-Root/C++ Development Root/SourceCode/.build/clang",
+  "command": "/usr/bin/clang++ -O3 -DNDEBUG -std=gnu++20 @CMakeFiles/project.dir/workspaces/C-Development-Root/C++_Development_Root/SourceCode/main.cpp.o.modmap -o CMakeFiles/project.dir/workspaces/C-Development-Root/C++_Development_Root/SourceCode/main.cpp.o -c \"/workspaces/C-Development-Root/C++ Development Root/SourceCode/main.cpp\"",
+  "file": "/workspaces/C-Development-Root/C++ Development Root/SourceCode/main.cpp",
+  "output": "CMakeFiles/project.dir/workspaces/C-Development-Root/C++_Development_Root/SourceCode/main.cpp.o"
+}
+]

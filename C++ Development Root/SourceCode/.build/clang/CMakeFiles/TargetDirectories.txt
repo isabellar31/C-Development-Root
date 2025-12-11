@@ -1,0 +1,3 @@
+/workspaces/C-Development-Root/C++ Development Root/SourceCode/.build/clang/CMakeFiles/project.dir
+/workspaces/C-Development-Root/C++ Development Root/SourceCode/.build/clang/CMakeFiles/edit_cache.dir
+/workspaces/C-Development-Root/C++ Development Root/SourceCode/.build/clang/CMakeFiles/rebuild_cache.dir

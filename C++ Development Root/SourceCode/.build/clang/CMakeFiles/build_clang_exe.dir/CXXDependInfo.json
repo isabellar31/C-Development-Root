@@ -1,0 +1,21 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "Release",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/workspaces/C-Development-Root/C++ Development Root/SourceCode/.build/clang",
+	"dir-cur-src" : "/workspaces/C-Development-Root/C++ Development Root/cmake",
+	"dir-top-bld" : "/workspaces/C-Development-Root/C++ Development Root/SourceCode/.build/clang",
+	"dir-top-src" : "/workspaces/C-Development-Root/C++ Development Root/cmake",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"/workspaces/C-Development-Root/C++ Development Root/SourceCode"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/workspaces/C-Development-Root/C++ Development Root/SourceCode/.build/clang/CMakeFiles/build_clang_exe.dir"
+}

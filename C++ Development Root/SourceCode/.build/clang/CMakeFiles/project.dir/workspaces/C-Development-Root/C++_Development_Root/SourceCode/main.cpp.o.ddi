@@ -1,0 +1,9 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/project.dir/workspaces/C-Development-Root/C++_Development_Root/SourceCode/main.cpp.o"
+    }
+  ],
+  "version": 1
+}

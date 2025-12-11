@@ -1,0 +1,13 @@
+# ninja log v7
+0	511	1765479684795995373	CMakeFiles/build_clang_exe.dir/workspaces/C-Development-Root/C++_Development_Root/SourceCode/main.cpp.o.ddi	a1a1692d63dfd714
+511	523	1765479685307995336	CMakeFiles/build_clang_exe.dir/CXX.dd	455c835c62f4b177
+511	523	1765479685307995336	/workspaces/C-Development-Root/C++ Development Root/SourceCode/.build/clang/CMakeFiles/build_clang_exe.dir/CXXModules.json	455c835c62f4b177
+511	523	1765479685307995336	CMakeFiles/build_clang_exe.dir/workspaces/C-Development-Root/C++_Development_Root/SourceCode/main.cpp.o.modmap	455c835c62f4b177
+523	1782	1765479685318995336	CMakeFiles/build_clang_exe.dir/workspaces/C-Development-Root/C++_Development_Root/SourceCode/main.cpp.o	bde31d967e1e15da
+1791	2062	1765479686586995245	/workspaces/C-Development-Root/C++ Development Root/SourceCode/bin/project_clangxx_Release	2ceb5ceb242cafcd
+0	111	1765481262791883253	CMakeFiles/project.dir/workspaces/C-Development-Root/C++_Development_Root/SourceCode/main.cpp.o.ddi	821a1d5ba06b82f5
+111	121	1765481262902883245	CMakeFiles/project.dir/CXX.dd	48a966595ebf85ba
+111	121	1765481262902883245	/workspaces/C-Development-Root/C++ Development Root/SourceCode/.build/clang/CMakeFiles/project.dir/CXXModules.json	48a966595ebf85ba
+111	121	1765481262902883245	CMakeFiles/project.dir/workspaces/C-Development-Root/C++_Development_Root/SourceCode/main.cpp.o.modmap	48a966595ebf85ba
+122	735	1765481262914883245	CMakeFiles/project.dir/workspaces/C-Development-Root/C++_Development_Root/SourceCode/main.cpp.o	478cc85637550eed
+735	800	1765481263526883201	project	e3effc9b7e61513e

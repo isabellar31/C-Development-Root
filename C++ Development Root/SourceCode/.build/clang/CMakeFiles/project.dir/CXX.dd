@@ -1,0 +1,3 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/project.dir/workspaces/C-Development-Root/C++_Development_Root/SourceCode/main.cpp.o: dyndep
+
